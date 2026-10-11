@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://loan-risk-wfiy.onrender.com/">
-  <img src="assets/banner.svg" alt="Loan Risk Check: animated risk gauge" width="100%">
+  <img src="banner.svg" alt="Loan Risk Check: animated risk gauge" width="100%">
 </a>
 
 <br>
